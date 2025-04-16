@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="1368" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1641" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,7 +201,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WACBtZOKQGaY9fLPwUXQ-3" value="Служба поддержки" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontFamily=Helvetica;" parent="WACBtZOKQGaY9fLPwUXQ-1" vertex="1">
+        <mxCell id="WACBtZOKQGaY9fLPwUXQ-3" value="Служба поддержки" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#d80073;strokeColor=#A50040;fontFamily=Helvetica;fontColor=#ffffff;" parent="WACBtZOKQGaY9fLPwUXQ-1" vertex="1">
           <mxGeometry y="561" width="1190" height="310" as="geometry" />
         </mxCell>
         <mxCell id="5e6GMvS9xqKw5pPs8lpZ-19" value="Получить&lt;div&gt;обращение от клиента&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fontFamily=Helvetica;" parent="WACBtZOKQGaY9fLPwUXQ-3" vertex="1">
@@ -301,7 +301,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aFen9CavAX5Kfl0Wv_H1-81" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="WACBtZOKQGaY9fLPwUXQ-3">
+        <mxCell id="aFen9CavAX5Kfl0Wv_H1-81" value="Завершение&lt;div&gt;процесс&lt;/div&gt;" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="WACBtZOKQGaY9fLPwUXQ-3">
           <mxGeometry x="1040" y="178" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aFen9CavAX5Kfl0Wv_H1-88" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;" vertex="1" parent="WACBtZOKQGaY9fLPwUXQ-3">
